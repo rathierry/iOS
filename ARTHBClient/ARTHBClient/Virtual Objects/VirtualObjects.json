@@ -1,0 +1,17 @@
+[
+     {
+         "modelName": "beer",
+         "displayName": "Beer",
+         "particleScaleInfo": {}
+     },
+     {
+         "modelName": "canette",
+         "displayName": "Canette",
+         "particleScaleInfo": {}
+     },
+     {
+         "modelName": "fresh",
+         "displayName": "Fresh",
+         "particleScaleInfo": {}
+     },
+]
